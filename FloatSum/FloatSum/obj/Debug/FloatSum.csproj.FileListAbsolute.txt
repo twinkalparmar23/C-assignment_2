@@ -1,0 +1,7 @@
+C:\Users\twinkal\source\repos\FloatSum\FloatSum\obj\Debug\FloatSum.csprojAssemblyReference.cache
+C:\Users\twinkal\source\repos\FloatSum\FloatSum\obj\Debug\FloatSum.csproj.CoreCompileInputs.cache
+C:\Users\twinkal\source\repos\FloatSum\FloatSum\bin\Debug\FloatSum.exe.config
+C:\Users\twinkal\source\repos\FloatSum\FloatSum\bin\Debug\FloatSum.exe
+C:\Users\twinkal\source\repos\FloatSum\FloatSum\bin\Debug\FloatSum.pdb
+C:\Users\twinkal\source\repos\FloatSum\FloatSum\obj\Debug\FloatSum.exe
+C:\Users\twinkal\source\repos\FloatSum\FloatSum\obj\Debug\FloatSum.pdb
