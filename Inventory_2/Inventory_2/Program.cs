@@ -42,11 +42,19 @@ namespace Inventory_2
                 Console.WriteLine(item);
             }
 
-            foreach(var x in items)
+            foreach (var a in items)
             {
-                if ((string.Compare(x, "tomato", StringComparison.CurrentCultureIgnoreCase)) == 0)
+                if ((a.IndexOf("tomato", StringComparison.CurrentCultureIgnoreCase) >= 0))
+                {
                     count = count + 1;
+                }
             }
+
+            //foreach (var x in items)
+            //{
+            //    if ((string.Compare(x, "tomato", StringComparison.CurrentCultureIgnoreCase)) == 0)
+            //        count = count + 1;
+            //}
 
             Console.WriteLine("\n number of string containing tomato :" + count);
 

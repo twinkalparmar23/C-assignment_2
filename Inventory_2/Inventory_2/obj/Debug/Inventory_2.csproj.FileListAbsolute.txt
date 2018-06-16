@@ -5,3 +5,10 @@ C:\Users\twinkal\source\repos\Inventory_2\Inventory_2\obj\Debug\Inventory_2.cspr
 C:\Users\twinkal\source\repos\Inventory_2\Inventory_2\obj\Debug\Inventory_2.csproj.CoreCompileInputs.cache
 C:\Users\twinkal\source\repos\Inventory_2\Inventory_2\obj\Debug\Inventory_2.exe
 C:\Users\twinkal\source\repos\Inventory_2\Inventory_2\obj\Debug\Inventory_2.pdb
+C:\Users\twinkal\VisualStudio\C# assignment 2\Inventory_2\Inventory_2\bin\Debug\Inventory_2.exe.config
+C:\Users\twinkal\VisualStudio\C# assignment 2\Inventory_2\Inventory_2\bin\Debug\Inventory_2.exe
+C:\Users\twinkal\VisualStudio\C# assignment 2\Inventory_2\Inventory_2\bin\Debug\Inventory_2.pdb
+C:\Users\twinkal\VisualStudio\C# assignment 2\Inventory_2\Inventory_2\obj\Debug\Inventory_2.csprojAssemblyReference.cache
+C:\Users\twinkal\VisualStudio\C# assignment 2\Inventory_2\Inventory_2\obj\Debug\Inventory_2.csproj.CoreCompileInputs.cache
+C:\Users\twinkal\VisualStudio\C# assignment 2\Inventory_2\Inventory_2\obj\Debug\Inventory_2.exe
+C:\Users\twinkal\VisualStudio\C# assignment 2\Inventory_2\Inventory_2\obj\Debug\Inventory_2.pdb
